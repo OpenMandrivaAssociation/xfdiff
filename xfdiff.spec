@@ -3,7 +3,7 @@
 %define release %mkrel 2
 
 Name: 	 	%{name}
-Summary: 	Graphical interface to the GNU diff and patch commands.
+Summary: 	Graphical interface to the GNU diff and patch commands
 Version: 	%{version}
 Release: 	%{release}
 
