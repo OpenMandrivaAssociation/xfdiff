@@ -22,11 +22,11 @@ BuildRequires:	gtk-doc
 BuildRequires: 	libtubo-devel
 
 %description
-Xfdiff is graphic interface to the GNU diff and patch commands. With this utility, 
-you can view differences side by side for files or directories. 
-You can also view differences that applying a patch file would imply, without 
-applying the patch. You can also apply patches to the hard disc or create patch 
-files for differences between files or directories. All-in-all, a handy utility 
+Xfdiff is graphic interface to the GNU diff and patch commands. With this
+utility, you can view differences side by side for files or directories.  You
+can also view differences that applying a patch file would imply, without
+applying the patch. You can also apply patches to the hard disc or create patch
+files for differences between files or directories. All-in-all, a handy utility
 for lazy chaps who don't want to type the diff command. 
 
 %prep
