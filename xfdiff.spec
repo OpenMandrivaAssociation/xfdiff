@@ -1,6 +1,6 @@
 %define name	xfdiff
 %define version 4.5.0
-%define release %mkrel 5
+%define release %mkrel 6
 
 Name: 	 	%{name}
 Summary: 	Graphical interface to the GNU diff and patch commands
