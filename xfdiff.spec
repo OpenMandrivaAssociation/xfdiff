@@ -12,6 +12,8 @@ URL:		https://xffm.sf.net
 License:	GPL
 Group:		File tools
 BuildRoot:	%{_tmppath}/%{name}-buildroot
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
 BuildRequires:	xfce-dev-tools
 BuildRequires:	autoconf2.5
 BuildRequires:	automake1.9
